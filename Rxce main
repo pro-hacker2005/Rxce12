@@ -1,5 +1,4 @@
-username:pro-hacker 
-password :35khxb3b6k
+
 
 expirydate = datetime.date(2022, 9, 15)
 #expirydate = datetime.date(2022, 12, 30)
